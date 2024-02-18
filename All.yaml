@@ -57,7 +57,7 @@ custom_proxy_group=XMRTH香港`select`(HK|香港)
 custom_proxy_group=XMRTH日本`select`(日本|JP)
 custom_proxy_group=XMRTH美国`select`(美|US)
 custom_proxy_group=XMRTH台湾`select`(台|TW)
-custom_proxy_group=XMRTH新加坡`url-test`(新加坡|SG)
+custom_proxy_group=XMRTH新加坡`select`(新加坡|SG)
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]✈️ 节点选择`[]♻️ 自动选择
 ;设置分组标志位
 
